@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 54fa582ae599bb64dbdace48e15b1a83
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 46209
+  packageName: Tanks! | Complete Project
+  packageVersion: 3.0
+  assetPath: Assets/_Tanks/Prefabs/PowerUps/PowerUpHUD.prefab
+  uploadId: 779802
